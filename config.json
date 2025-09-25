@@ -1,0 +1,9 @@
+{
+    "Ports":
+    {
+        "DedicatedServerSocket": 666,
+        "MatchmakerSocket": 2053,
+        "API": 40511
+    },
+    "SecretKey": "Ld6nPIeIOZLjTL7qIlbudKrXL8TgrKUy"
+}
